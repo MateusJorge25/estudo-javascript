@@ -18,7 +18,7 @@ switch(pesquisa){
 }
 
 
-/*let salario = prompt("Qual seu salario R$: 1000 2000 3000")
+let salario = prompt("Qual seu salario R$: 1000 2000 3000")
 salario = Number(salario)
 
 
@@ -35,4 +35,4 @@ switch(salario){
     case 3000:
     document.write("R$ 3000: Ja esta ganhando um otimo salario")
     breack
-}*/
+}
